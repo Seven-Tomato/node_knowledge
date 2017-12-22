@@ -1,0 +1,1 @@
+console.log("我是有后缀名的node3.js文件");
